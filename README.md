@@ -1,0 +1,3 @@
+# XTNetwork
+一个简单的封装将AFNetworking+YYCache
+如有什么不好的地方欢迎指正，感觉有很多和其他类似的地方
